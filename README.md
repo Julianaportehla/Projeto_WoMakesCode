@@ -1,3 +1,3 @@
-# Semana 03
-
-## Criando meu primeiro repositório e aprendendo os comandos mais utilizados no Git e Github.
+# Exercício
+## Proposta 
+# -Praticar a adição, commit e push para o GitHub.
